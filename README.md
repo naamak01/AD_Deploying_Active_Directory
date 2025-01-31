@@ -6,7 +6,7 @@
 
 For this portion of the Active Directory project, we will install Active Directory on the domain controller, create a domain admin, and join the client VM to the domain.
 
-This project is a continuation of [Active Directory: Preparing Infrastructure in Azure], so this project picks up where I left off.
+This project is a continuation of [[Active Directory: Preparing Infrastructure in Azure]](https://github.com/naamak01/AD_Preparing_Active_Directory_In_Azure), so this project picks up where I left off.
 
 
 Environments and Utilities Used
